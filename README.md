@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/halafreijat/learning-jo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# to Develop a Growth Mindset 
+i am hala freijat ,i have 28 years ago i have a bachelore degee of electrical and electronic engineer from mutah university , i have Experience in atracking system from a jordan custme and i worked in many robotics programing such as EVO3 & WEDO2
+ 
+**firstly,Acknowledge and embrace imperfections & View challenges as opportunities and  Replace the word â€œfailingâ€ with the word â€œlearning then i would spend more time and work harder Stop seeking approval Take ownership over your attitude**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**ot all Markdown features are documented here, we only intend to document the notable ones,Front Matter,Excerpt,Task List,Tables & headings**
+ 
+ **if we aplay top ways get up a haigher achivment**
 
-### Markdown
+[my_github](https://halafreijat.github.io/hello-amman102/)
+![](https://cdnb.artstation.com/p/assets/images/images/005/507/167/large/howie-le-brain-whole-fotor.jpg?1491529680&dl=1)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+ in a following table shows a summery to devloded mindset
+ ![](https://miro.medium.com/max/1024/1*-eild5p0hGZDeOgM65sJpQ.jpeg)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/halafreijat/learning-jo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
