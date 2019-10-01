@@ -6,13 +6,13 @@
 *i am hala freijat ,i have 28 years ago i have a bachelore degee of electrical and electronic engineer from mutah university ,our website aim to learning you alot;enjoy*
 
 ##Mindset growth
-[](https://halafreijat.github.io/learning-jo/)
+[](https://halafreijat.github.io/learning-jo/README)
 
 ##Text 
 []()
 
 #Mark down
-[]()
+[](https://halafreijat.github.io/learning-jo/markdown)
 
 #Git 
 []()
