@@ -2,7 +2,7 @@
 # to Develop a Growth Mindset 
 i am hala freijat ,i have 28 years ago i have a bachelore degee of electrical and electronic engineer from mutah university , i have Experience in atracking system from a jordan custme and i worked in many robotics programing such as EVO3 & WEDO2
  
-**firstly,Acknowledge and embrace imperfections & View challenges as opportunities and  Replace the word â€œfailingâ€ with the word â€œlearning then i would spend more time and work harder Stop seeking approval Take ownership over your attitude**
+**firstly,Acknowledge and embrace imperfections & View challenges as opportunities and  Replace the word  with the word then i would spend more time and work harder Stop seeking approval Take ownership over your attitude**
 
 **ot all Markdown features are documented here, we only intend to document the notable ones,Front Matter,Excerpt,Task List,Tables & headings**
  
